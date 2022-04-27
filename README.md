@@ -1,5 +1,6 @@
 ### Welcome 👋
-<h1> Hello World, I'm Jae Eok Lim <img src="https://thumbs.gfycat.com/FirsthandMisguidedAmurminnow-size_restricted.gif" height="180"></h1>
+<img src="https://thumbs.gfycat.com/FirsthandMisguidedAmurminnow-size_restricted.gif" height="180">
+<h1> Hello World, I'm Jae Eok Lim</h1>
 
 <!-- <p>
   <em>
