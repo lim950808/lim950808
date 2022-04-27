@@ -1,5 +1,5 @@
 ### Welcome 👋
-<h1> Hello World, I'm Jae Eok Lim <img src="https://avatars.githubusercontent.com/u/90830299?v=4" height="180"></h1>
+<h1> Hello World, I'm Jae Eok Lim <img src="https://thumbs.gfycat.com/FirsthandMisguidedAmurminnow-size_restricted.gif" height="180"></h1>
 
 <!-- <p>
   <em>
