@@ -1,4 +1,34 @@
-### Hi there 👋
+### Welcome 👋
+<h1> Hello World, I'm Jae Eok Lim <img src="https://avatars.githubusercontent.com/u/90830299?v=4" height="180"></h1>
+
+<!-- <p>
+  <em>
+    <h3>
+    Content Creator at
+      <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">
+        드림코딩 by 엘리 <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" />
+      </a>
+    </h3>
+  </em>
+  <em>
+  <h3>
+    Instructor at 
+    <a href="https://academy.dream-coding.com/">
+      Dream Coding Academy 
+      <img src="https://user-images.githubusercontent.com/1569988/159411473-79b779c5-b91f-4ded-9235-1f187e1ebec2.svg" height="30px"/>
+    </a>
+  </h3>
+    </em>
+  </em>
+</p> -->
+
+<br />
+<h2> My tech stack 📚 </h2>
+
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=CSharp)
+![.Net](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.Net)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring)
 
 <!--
 **lim950808/lim950808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
