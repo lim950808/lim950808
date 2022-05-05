@@ -29,7 +29,7 @@
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=CSharp)
 ![.Net](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.Net)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring)
+![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <!--
 **lim950808/lim950808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
