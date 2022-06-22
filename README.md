@@ -27,9 +27,11 @@
 <h2> My tech stack 📚 </h2>
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=CSharp)
-![.Net](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.Net)
+![.Net](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.Net) <p>
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <p>
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery) <p>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <!--
 **lim950808/lim950808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
