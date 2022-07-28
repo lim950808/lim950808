@@ -1,7 +1,8 @@
 ### Hi there 👋
 <img src="https://thumbs.gfycat.com/FirsthandMisguidedAmurminnow-size_restricted.gif" height="180">
 <h1> Time to work 💻🐈</h1>
-
+<h3><i>“Talk is cheap. Show me the code.”</i></h3>
+<!--<h5>Linus</h5>-->
 <!-- <p>
   <em>
     <h3>
