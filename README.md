@@ -2,6 +2,7 @@
 <img src="https://thumbs.gfycat.com/FirsthandMisguidedAmurminnow-size_restricted.gif" height="180">
 <h1> Time to work 💻🐈</h1>
 <h3><i>“Talk is cheap. Show me the code.”</i></h3>
+<h3><i>“No Silver Bullet.”</i></h3>
 <!--<h5>Linus</h5>-->
 <!-- <p>
   <em>
@@ -27,10 +28,10 @@
 <br />
 <h2> My tech stack 📚 </h2>
 
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=CSharp)
-![.Net](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.Net) <p>
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <p>
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=CSharp)
+![.Net](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.Net) <p>
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery) <p>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
