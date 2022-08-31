@@ -33,7 +33,9 @@
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=CSharp)
 ![.Net](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.Net) <p>
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery) <p>
+![MySQL](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 <!--
 **lim950808/lim950808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
