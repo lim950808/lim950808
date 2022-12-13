@@ -29,11 +29,13 @@
 <h2> My tech stack 📚 </h2>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <p>
+![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<!-- ![Spring Boot](https://img.shields.io/badge/-springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)--> <p> 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=CSharp)
 ![.Net](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.Net) <p>
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery) <p>
 ![MySQL](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
