@@ -14,10 +14,10 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: lim950808
       - name: Commit & Push
         run: |
-          git config user.name lim950808
+          git config user.name jaeeoklim
           git config user.email lim080895@gmail.com
           git add -A .
           git commit -m "generated"
