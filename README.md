@@ -13,15 +13,18 @@
 <!-- ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=CSharp)
 ![.Net](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.Net) <p> -->
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery) 
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=for-the-badge&logo=AngularJS)<p>
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=for-the-badge&logo=AngularJS)
+<p>
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <!-- ![MySQL](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) <p> -->
-  <p>
+<p>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=Subversion&logoColor=white">
+<img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
 
 
 <!--
