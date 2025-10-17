@@ -7,7 +7,7 @@
 <!-- <br/>-->
 <!--<h2> My tech stack 📚 </h2>-->
 
-![java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<!-- ![java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) -->
 <!--<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <p> -->
 <!-- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <p>  -->
 <!-- ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=CSharp)
